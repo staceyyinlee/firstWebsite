@@ -1,0 +1,24 @@
+img {
+	border-radius: 50%;
+	border: 5px solid black;
+	max-width: 20%;
+	height: auto;
+	float: right;
+	margin: 200px;
+	vertical-align: super;
+}
+
+div{
+	font-family: Verdana;
+	font-size: 1.5em;
+	float: left;
+}
+body {
+	font-size: 100%;
+	background-color: #DAF7FE;
+}
+
+h1 {
+	font-family: Verdana;
+	font-size: 4em;
+}
